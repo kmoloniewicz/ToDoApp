@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/id_task_do_undo"
+        android:title="@string/contextual_menu_do_task"
+        android:icon="@mipmap/do_undo_task"/>
+    <item android:id="@+id/id_task_delete"
+        android:title="@string/contextual_menu_delete"
+        android:icon="@mipmap/ic_delete"/>
+</menu>
